@@ -14,6 +14,7 @@ body {
 }
 
 #myForm input, #myForm button {
+    box-sizing: border-box; /* Add this line */
     width: 100%;
     padding: 10px;
     margin-top: 10px;
